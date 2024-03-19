@@ -144,6 +144,9 @@ print(x_single_prediction)
 
 ![image](https://github.com/dharanielango/mnist-classification/assets/94530523/82cdd385-5530-4a94-b41f-001c48820dfd)
 
+![image](https://github.com/dharanielango/mnist-classification/assets/94530523/67bca5d2-b37d-4b5b-ad0e-37a997623541)
+
+
 
 ### Classification Report
 ![image](https://github.com/dharanielango/mnist-classification/assets/94530523/6f26d3ab-916f-4a61-a3bf-5a9ecea6099c)
