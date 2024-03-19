@@ -6,6 +6,11 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Problem Statement and Dataset
 
+The task at hand involves developing a Convolutional Neural Network (CNN) that can accurately classify handwritten digits ranging from 0 to 9. This CNN should be capable of processing scanned images of handwritten digits, even those not included in the standard dataset.
+
+
+The MNIST dataset is widely recognized as a foundational resource in both machine learning and computer vision. It consists of grayscale images measuring 28x28 pixels, each depicting a handwritten digit from 0 to 9. The dataset includes 60,000 training images and 10,000 test images, meticulously labeled for model evaluation. Grayscale representations of these images range from 0 to 255, with 0 representing black and 255 representing white. MNIST serves as a benchmark for assessing various machine learning models, particularly for digit recognition tasks. By utilizing MNIST, we aim to develop and evaluate a specialized CNN for digit classification while also testing its ability to generalize to real-world handwritten images not present in the dataset.
+
 ## Neural Network Model
 
 ![image](https://github.com/dharanielango/mnist-classification/assets/94530523/71b55c6b-bea8-4bde-a92e-780161d016a5)
