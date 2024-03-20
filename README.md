@@ -13,7 +13,8 @@ The MNIST dataset is widely recognized as a foundational resource in both machin
 
 ## Neural Network Model
 
-![image](https://github.com/dharanielango/mnist-classification/assets/94530523/71b55c6b-bea8-4bde-a92e-780161d016a5)
+![image](https://github.com/dharanielango/mnist-classification/assets/94530523/be6bb5ce-e137-48a0-a68c-42ac7046d6fb)
+
 
 
 ## DESIGN STEPS
